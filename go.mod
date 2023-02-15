@@ -16,7 +16,7 @@ require (
 	github.com/packethost/pkg v0.0.0-20211110202003-387414657e83
 	github.com/packethost/xff v0.0.0-20190305172552-d3e9190c41b3
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/common v0.32.1 // indirect
 	github.com/rollbar/rollbar-go/errors v0.0.0-20211129211054-6380fe0f262a // indirect
 	github.com/stretchr/testify v1.7.0
